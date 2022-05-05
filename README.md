@@ -1,2 +1,2 @@
 # emeraldAddons
-Adds emerald weapons and armor to Minecraft
+A simple forge mod that adds emerald weapons and armor to Minecraft.
